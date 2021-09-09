@@ -50,6 +50,7 @@
   <img src="https://img.shields.io/badge/-Ansible-grey?style=for-the-badge&logo=ansible&logoColor=white">
   <img src="https://img.shields.io/badge/-Terraform-306998?style=for-the-badge&logo=terraform&logoColor=white">
   <img src="https://img.shields.io/badge/-Shell%20Script-black?style=for-the-badge&logo=shell&logoColor=white">
+  <img src="https://img.shields.io/badge/-Helm-306998?style=for-the-badge&logo=helm&logoColor=white">
   </div>
 
 <h4> Linguagem de Programação</h4>
