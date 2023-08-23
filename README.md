@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 &nbsp; Tabalhando como DevOps Engineer na Jetbov.
-- 🌱 &nbsp; Aprendendo mais sobre Cloud Architecture, IaC e Desenvolvimento de Software.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 💼 &nbsp; Working as a DevOps Engineer at Cloudplusplus.
+- 🌱 &nbsp; Learning more about Cloud Architecture, IaC and Software Development.
 
 
-<h3> 🤝🏻 Contatos </h3>
+<h3> 🤝🏻 Contacts </h3>
 
   <div> 
   <a href = "mailto:silastiagoo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
@@ -23,9 +23,13 @@
 
 ---
 
-- Certificações:
+- Certifications:
   - LPIC-1
   - Gitlab Certified Associate
+  - GitOps Fundamentals
+  - AWS Solutions Architect – Associate
+  - Microsoft Azure Fundamentals (AZ900)
+  - Oracle Cloud Infrastructure Foundations
 
 <h3>🛠 Tech Stack</h3>
 
@@ -37,6 +41,7 @@
 <h4> CI/CD</h4>
   <div>
   <img src="https://img.shields.io/badge/-GitLab-eeeded?style=for-the-badge&logo=gitlab&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitLab-eeeded?style=for-the-badge&logo=jenkins&logoColor=white">
   </div>
 
 <h4> Container</h4>
