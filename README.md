@@ -1,6 +1,6 @@
-<h2>Eu sou Silas Medeiros.</h2>
+<h2>I'm Silas Medeiros.</h2>
 
-<h3> 👨🏻‍💻 Sobre mim </h3>
+<h3> 👨🏻‍💻 About me</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 💼 &nbsp; Working as a DevOps Engineer at Cloudplusplus.
