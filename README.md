@@ -41,7 +41,7 @@
 <h4> CI/CD</h4>
   <div>
   <img src="https://img.shields.io/badge/-GitLab-eeeded?style=for-the-badge&logo=gitlab&logoColor=white">
-  <img src="https://img.shields.io/badge/-GitLab-eeeded?style=for-the-badge&logo=jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/-Jenkins-eeeded?style=for-the-badge&logo=jenkins&logoColor=white">
   </div>
 
 <h4> Container</h4>
